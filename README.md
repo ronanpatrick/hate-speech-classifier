@@ -26,7 +26,7 @@ This repository contains an end-to-end NLP case study focused on text classifica
 
 ### Option 1: Run in Cloud (Recommended)
 You can view and execute the code instantly in your browser via Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronanpatrick/hate-speech-classifier/blob/main/Filipino_Hate_Speech_Classifier.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronanpatrick/hate-speech-classifier/blob/main/Hate_Speech_Classifier.ipynb)
 
 *(Note: If running in Colab, please ensure you upload `train.csv`, `test.csv`, and `valid.csv` to your session storage first).*
 
